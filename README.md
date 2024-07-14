@@ -1,2 +1,1 @@
-My first readme
-my file name in readme
+I am an ALX student 
